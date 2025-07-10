@@ -30,6 +30,5 @@ static bool IsIsogramLinq(string str)
 
     return str
         .GroupBy(x => char.ToLower(x))
-        .Any(x => x.Count() > 1);
-
+        .Any(x => x.Count() > 1) ? false : true;
 }
