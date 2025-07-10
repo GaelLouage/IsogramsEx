@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\bin\Debug\net8.0\IsogramsEx.exe
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\bin\Debug\net8.0\IsogramsEx.deps.json
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\bin\Debug\net8.0\IsogramsEx.runtimeconfig.json
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\bin\Debug\net8.0\IsogramsEx.dll
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\bin\Debug\net8.0\IsogramsEx.pdb
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.dll
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\refint\IsogramsEx.dll
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.pdb
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\IsogramsEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\IsogramsEx\IsogramsEx\obj\Debug\net8.0\ref\IsogramsEx.dll
